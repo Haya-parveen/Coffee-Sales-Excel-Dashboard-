@@ -17,7 +17,7 @@ The Coffee Sales Dashboard provides the following insights:
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Screenshot](Dashboard_Screenshot.png)  
+![Dashboard Screenshot](Dashboard.png)  
 
 ---
 
